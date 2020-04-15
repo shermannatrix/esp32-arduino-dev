@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": "esp32_blinking_led"
+		},
+		{
+			"name": "esp32_arduino_bleserver",
+			"path": "esp32_arduino_bleserver"
+		},
+		{
+			"name": "esp32_arduino_blescanner",
+			"path": "esp32_arduino_blescanner"
+		},
+		{
+			"name": "esp32_arduino_gpio",
+			"path": "esp32_arduino_gpio"
+		}
+	],
+	"settings": {}
+}
